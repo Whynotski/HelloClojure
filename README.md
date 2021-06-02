@@ -14,3 +14,7 @@ https://github.com/caryfado
 https://github.com/Whynotski
 https://github.com/nushi408
 
+
+I would like to work on an app to keep local kayakers safe when the weather changes 
+background https://useakayak.org/references/hypothermia_table.html
+
